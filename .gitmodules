@@ -1,0 +1,3 @@
+[submodule "soup-common"]
+	path = soup-common
+	url = git@github.com:yiguotang/soup-common.git
